@@ -1,4 +1,4 @@
-# Placement.ai - AI-Powered Career Platform
+# PlacementTrack - by Mahak
 
 > Find your dream job, learn in-demand skills, and connect with industry mentors.
 
